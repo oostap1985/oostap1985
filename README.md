@@ -1,4 +1,6 @@
-## Hi there 👋
+## Привет 👋 , меня зовут Олег!
+### Я Frontend-разработчик!
+#### Стек: HTML, CSS, JavaScript, TypeScript, React
 
 <!--
 **oostap1985/oostap1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
